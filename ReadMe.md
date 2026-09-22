@@ -17,12 +17,6 @@ This project analyzes the ABC Company dataset containing employee details across
 ## 📈 Visualizations
 Bar charts, scatter plots, and histograms were used to represent findings effectively.
 
-## 💡 Insights
-- Majority of employees belong to [Team Name].
-- Predominant age group: [e.g., 25–35].
-- [Team X] and [Position Y] contribute most to salary expenditure.
-- Age shows a [positive/negative/neutral] correlation with salary.
-
 ## 🧑‍💻 Tools Used
 - Python (pandas, numpy)
 - Matplotlib & Seaborn
