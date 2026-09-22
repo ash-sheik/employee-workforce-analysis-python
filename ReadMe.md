@@ -25,8 +25,9 @@ Bar charts, scatter plots, and histograms were used to represent findings effect
 ## 📎 Dataset
 Dataset provided by ABC Company (`myexcel.csv`)
 
-## 🚀 Author
-ASHIBA
-ashibab23@gmail.com
-LinkedIn : www.linkedin.com/in/ashiba-b-2309-
- — Submitted as part of the Python Module-End Project.
+## 👩‍💻 Author
+
+**Ashiba B**  
+Data Analyst | SQL | Power BI | Excel | Python  
+
+[LinkedIn](https://www.linkedin.com/in/ashiba-data-analyst) | [Email](mailto:ashibab23@gmail.com)
